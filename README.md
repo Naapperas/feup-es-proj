@@ -28,6 +28,8 @@ Please contact us!
 
 Thank you!
 
+## Grade: 18.9/20
+
 #### António Santos, up202008004
 #### Pedro Silva, up202004985
 #### Pedro Nunes, up202004714 
